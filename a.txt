@@ -2,4 +2,8 @@ saru
 test2 add text.
 after test add text.
 
+<<<<<<< HEAD
 2. test2 modyfied.
+=======
+1.test mdifyed.
+>>>>>>> 26173f5aace0de3c4593162a58c0ede40c76828c
